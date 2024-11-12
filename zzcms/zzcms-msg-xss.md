@@ -8,9 +8,9 @@ http://www.zzcms.net/
 
 ## Description
 
+A vulnerability was found in ZZCMS up to 2023，
 
-
-ZZCMS 2023 version has an XSS vulnerability in admin/msg.php
+This issue is affected by the component admin/msg.php, which does not control user input, resulting in an XSS vulnerability.
 
 
 
